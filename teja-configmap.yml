@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+ name: teja-configmap
+data:
+ APP_COLOR: Blue
+ APP_MODE: Prod
